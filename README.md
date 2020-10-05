@@ -6,9 +6,10 @@
 
 ### Installation
 First get your own API keys and place then in the respective forecast.js(API key from WeatherStack) and geocode.js(API key from MapBox) file.
-This app requires [Node.js](https://nodejs.org/) v4+ to run.
+This app requires [Node.js](https://nodejs.org/) to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
 $ nodemon app.js
 ```
+
