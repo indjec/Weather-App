@@ -13,7 +13,7 @@ This app requires [Node.js](https://nodejs.org/) to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ nodemon app.js
+$ node app.js
 ```
 
 ## Extras used
