@@ -17,5 +17,6 @@ $ node app.js
 ```
 
 ## Extras used
+ * NodeJs, HandleBars
  * [Mapbox API for Geocoding](https://www.mapbox.com/)
  * [Weather Stack API for weather forecast](https://weatherstack.com/)
