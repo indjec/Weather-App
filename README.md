@@ -16,3 +16,6 @@ Install the dependencies and devDependencies and start the server.
 $ nodemon app.js
 ```
 
+## Extras used
+ * [Mapbox API for Geocoding](https://www.mapbox.com/)
+ * [Weather Stack API for weather forecast](https://weatherstack.com/)
